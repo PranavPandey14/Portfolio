@@ -31,7 +31,6 @@ const HeroSection = () => {
             href="/Pranav_Pandey_RESUME.pdf"
             download={true}
             className="text-neutral-100 font-semibold px-6 py-3  bg-red-900 dark:bg-teal-600 rounded shadow transition ease-in-out delay-50  dark:hover:bg-red-900 duration-300 ..."
-
           >
             Download Resume
           </a>

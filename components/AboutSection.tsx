@@ -24,7 +24,6 @@ const AboutSection = () => {
           About Me
           <hr className="w-6 h-1 mx-auto my-4 bg-red-900 dark:bg-teal-500  border-0 rounded"></hr>
         </h1>
-
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
@@ -33,8 +32,8 @@ const AboutSection = () => {
            
             <p>
               Hi, I'm Pranav Pandey, a{" "}
-              <span className="font-bold">{` highly ambitious`}</span>, and
-              <span className="font-bold">{` self-motivated `}</span>
+              <span className="font-bold"> highly ambitious</span> and
+              <span className="font-bold"> self-motivated </span> 
               Web Developer based in Delhi, India. Since graduating with a B.Tech in Information Technology from the Institute of Technology and Management, Gorakhpur, Uttar Pradesh, in 2022, I've been actively contributing to the field.
             </p>
             <br />

@@ -25,7 +25,6 @@ const Footer = () => {
               size={30}
             />
           </a>
-
           <a
             href="https://www.linkedin.com/in/pranav-pandey-62969b21a/"
             rel="noreferrer"

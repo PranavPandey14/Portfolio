@@ -27,7 +27,6 @@ const projects = [
     github: "https://github.com/PranavPandey14/TextUtils-using-Reactjs",
   },
 ];
-
 const ProjectsSection = () => {
   return (
     <section id="projects">

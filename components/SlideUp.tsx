@@ -6,7 +6,6 @@ interface Props {
   children?: ReactNode
   // any props that come into the component
 }
-
 export default function SlideUp({ children, offset = "0px" }: Props) {
   const ref = useRef(null)
 

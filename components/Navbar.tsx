@@ -11,7 +11,6 @@ interface NavItem {
   label: string;
   page: string;
 }
-
 const NAV_ITEMS: Array<NavItem> = [
   {
     label: "Home",
