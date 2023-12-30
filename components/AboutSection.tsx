@@ -31,10 +31,10 @@ const AboutSection = () => {
             </h1>
            
             <p>
-              Hi, I'm Pranav Pandey, a{" "}
+              Hi, I&apos;m Pranav Pandey, a{" "}
               <span className="font-bold"> highly ambitious</span> and
               <span className="font-bold"> self-motivated </span> 
-              Web Developer based in Delhi, India. Since graduating with a B.Tech in Information Technology from the Institute of Technology and Management, Gorakhpur, Uttar Pradesh, in 2022, I've been actively contributing to the field.
+              Software Developer based in Delhi, India. Since graduating with a B.Tech in Information Technology from the Institute of Technology and Management, Gorakhpur, Uttar Pradesh, in 2022, I&apos;ve been actively contributing to the field.
             </p>
             <br />
             <p>
@@ -42,7 +42,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              Beyond my work, I am a multifaceted individual with diverse interests. Whether I'm immersed in reading, playing musical instruments, exploring new destinations, or delving into the latest technologies, I am always seeking opportunities to broaden my horizons and acquire new skills.
+              Beyond my work, I am a multifaceted individual with diverse interests. Whether I&apos;m immersed in reading, playing musical instruments, exploring new destinations, or delving into the latest technologies, I am always seeking opportunities to broaden my horizons and acquire new skills.
             </p>
             <br />
             <p>
