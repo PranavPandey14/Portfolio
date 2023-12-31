@@ -36,13 +36,7 @@ export default function Navbar() {
       <div className="justify-between md:items-center md:flex ">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block  ">
-            <Link activeClass="active"
-              to="home"
-              spy={true}
-              smooth={true}
-              offset={50}
-              duration={500}
-            >
+            <Link to="home">
               <div className="container flex items-center space-x-2 ">
                 <h2 className="text-2xl text-indigo-100 font-bold  dark:text-white cursor-pointer">
                   Pranav Pandey
